@@ -11,4 +11,4 @@ Elle propose :
 
 -Un centre d’aide et des défis de code pour pratiquer concrètement.
 
-L’application vise à rendre l’apprentissage plus ludique, progressif et personnalisé pour chaque utilisateur.
+L’application vise à rendre l’apprentissage plus ludique, progressif et personnalisé pour chaque utilisateur  et de maniere gamifiee.
